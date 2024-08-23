@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.403002mm"
+   height="28.783001mm"
+   viewBox="0 0 28.403002 28.783001"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="356.47586"
+       y="284.42221"
+       width="244.6031"
+       height="127.04193"
+       id="rect3" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-13.221,-31.708003)">
+    <g
+       id="g4"
+       transform="matrix(0.47178683,0,0,0.53122086,-31.750106,-1.0723211)">
+      <path
+         d="M 125.42234,61.707523 A 30.101353,27.091215 0 0 0 95.320817,88.798893 30.101353,27.091215 0 0 0 125.42234,115.89026 30.101353,27.091215 0 0 0 155.52386,88.798893 30.101353,27.091215 0 0 0 125.42234,61.707523 Z"
+         style="fill:#00ffff;stroke-width:0.264583"
+         id="path3" />
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text3"
+         style="font-size:42.6667px;line-height:2;text-align:center;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ff6600"><tspan
+           x="391.95436"
+           y="339.64193"
+           id="tspan2"><tspan
+             style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, Normal'"
+             id="tspan1">Fam Gam</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

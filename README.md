@@ -18,9 +18,11 @@
 + Question answers should only allow one choice, restricted to a pre-defined set of family members
 
 ## V1 Functionality
-+ 
++ User can choose to randomly generate a question and answer it
++ User can see if their answer was correct or incorrect
 
 ## Features / Fixes Needed
 + Logo
   + Tweak positioning and size
   + Get rid of broken link (alt) image below logo
+  + 

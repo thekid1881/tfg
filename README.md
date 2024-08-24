@@ -15,5 +15,7 @@
 ## MVP Functionality
 + 
 
-## Features or Fixes Needed
-+ 
+## Features / Fixes Needed
++ Logo
+  + Tweak positioning and size
+  + Get rid of broken link (alt) image below logo

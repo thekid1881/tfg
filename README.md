@@ -22,7 +22,9 @@
 + User can see if their answer was correct or incorrect
 
 ## Features / Fixes Needed
-+ Logo
+ ### Frontend
+ + Logo
   + Tweak positioning and size
   + Get rid of broken link (alt) image below logo
-  + 
+ ### Backend
+ + DELETE path not working -- the 'delete' button does nothing

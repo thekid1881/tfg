@@ -13,6 +13,10 @@
 + 
 
 ## MVP Functionality
++ Perform simple CRUD operations on question record entries (Create, Read, Update, Delete)
++ Question answers should only allow one choice, restricted to a pre-defined set of family members
+
+## V1 Functionality
 + 
 
 ## Features / Fixes Needed

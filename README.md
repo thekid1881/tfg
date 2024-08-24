@@ -10,7 +10,8 @@
 + Frontend dependencies
   + react-router-dom
   + tailwaindcss
-+ 
++ Project created by going through MongoDB tutorial 'How to Use MERN STACK: A Complete Guide'
+  + https://www.mongodb.com/resources/languages/mern-stack-tutorial
 
 ## MVP Functionality
 + Perform simple CRUD operations on question record entries (Create, Read, Update, Delete)
